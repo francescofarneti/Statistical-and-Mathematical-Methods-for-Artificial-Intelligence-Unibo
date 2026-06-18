@@ -28,10 +28,6 @@ I notebook sono stati sviluppati su Google Colab ed esportati in PDF.
 | `homework3_finale_dataset_piccolo.pdf`, `homework3_finale_dataset_grande.pdf` | Ottimizzazione tramite Gradient Descent (con e senza backtracking line search) su funzioni di test convesse e non convesse, regressione polinomiale con matrice di Vandermonde e classificazione di cifre; due varianti con dataset di dimensioni diverse |
 | `homework4_finale.pdf` | Stima dei parametri di un modello di regressione polinomiale con Maximum Likelihood Estimation (MLE) e Maximum a Posteriori (MAP) |
 
-## Strumenti
+## Tools
 
 Python, NumPy, SciPy, Matplotlib.
-
-## Autore
-
-Francesco Farneti
