@@ -1,6 +1,20 @@
-homeworks a.y. 2023-2024
-
 # Statistical and Mathematical Methods for Artificial Intelligence – Unibo
+
+Collection of homework assignments completed for the **Statistical and Mathematical Methods for Artificial Intelligence** course (academic year 2023-2024), MSc in Artificial Intelligence, University of Bologna.
+
+The notebooks were developed on Google Colab and exported to PDF.
+
+## Contents
+
+| File | Topic |
+|---|---|
+| `homework_1.pdf` | Direct methods for solving linear systems: computing the condition number (2-norm and infinity-norm), comparing well- and ill-conditioned matrices |
+| `homework2.pdf` | SVD decomposition: visualizing dyads, low-rank approximation of an image, and binary classification of handwritten digits via SVD |
+| `homework3_finale_dataset_piccolo.pdf`, `homework3_finale_dataset_grande.pdf` | Optimization via Gradient Descent (with and without backtracking line search) on convex and non-convex test functions, polynomial regression with a Vandermonde matrix, and digit classification; two variants with datasets of different sizes |
+| `homework4_finale.pdf` | Parameter estimation for a polynomial regression model via Maximum Likelihood Estimation (MLE) and Maximum a Posteriori (MAP) |
+
+-----------------------------------
+
 
 Raccolta degli homework svolti per il corso di **Statistical and Mathematical Methods for Artificial Intelligence** (anno accademico 2023-2024), Corso di Laurea Magistrale in Artificial Intelligence, Università di Bologna.
 
